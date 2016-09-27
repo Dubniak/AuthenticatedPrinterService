@@ -1,0 +1,5 @@
+//Start , Stop , Restart, Status , ReadConfig , SetConfig , Queue , TopQueue , Print
+Manager	|111111111
+Technician	|111111000
+PowerUser	|001000111
+Reg_User	|000000101
